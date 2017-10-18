@@ -1,5 +1,3 @@
-require "pry"
-
 class Scrabble
 
   def score(word)
